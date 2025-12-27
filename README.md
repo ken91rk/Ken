@@ -1,7 +1,10 @@
 Bienvenue sur le projet fantastique et ambitieux de Mohamed et Ken,
-Savez-vous que 1,7 milliard de colis sont livrés par an en France. Mais comment un système aussi complexe fonctionne ? C'est grâce à un réseaux de livreurs organiser dans toute la France, séparer en commune généralement. Un livreur livre en moyenne 140 colis par jours à des adresses différentes. Mais comment établir sa tournée pour qu'elle dure le moins de temps. Ce problème se nomme " Le problème du voyageur". 
+Savez-vous que 1,7 milliard de colis sont livrés par an en France. Mais comment un système aussi complexe fonctionne ? C'est grâce à un réseaux de livreurs organiser dans toute la France, séparer en commune généralement. Un livreur livre en moyenne 140 colis par jours à des adresses différentes. Mais comment établir sa tournée pour qu'elle dure le moins de temps. Ce problème se nomme " Le problème du voyageur" et nous allonns y répondre. 
 
-Notre objectif :  Trouver le meilleur ordre d'adresse pour prendre le moins de temps possible pour des adresse dans Paris. 
+Notre objectif :  Trouver le meilleur ordre d'adresse pour prendre le moins de temps possible dans le monde entier.
+
+
+
 
 En X :  le temps de trajet 
 En Y : l'ordre des adresse
