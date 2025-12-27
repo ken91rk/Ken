@@ -1,0 +1,29 @@
+depot,destination_name,destination_lat,destination_lon,distance_km,duration_min,cluster,TARGET_ORDER
+Gare de Lyon,La Couronne Dorée,48.8284725,2.2816377,12.07,21.76,9,1
+Gare de Lyon,École Les Ajoncs 1,48.8191548,2.2516781,15.69,27.5,9,2
+Gare de Lyon,Casa Mario,48.8234946,2.2678173,13.09,24.58,9,3
+Gare de Lyon,Pistoliers d'Auteuil,48.817113,2.2509223,15.65,27.36,9,4
+Gare de Lyon,Le Gourmet de Boulogne,48.8393668,2.2467954,14.46,24.55,9,5
+Gare de Lyon,CIC,48.8271395,2.2425276,15.53,26.68,9,6
+Gare de Lyon,Institut de Radiologie Boulogne-Billancourt,48.8282844,2.2342397,15.86,27.36,9,7
+Gare de Lyon,Gymnase Jacques Goddet,48.8221138,2.2559744,14.52,26.91,9,8
+Gare de Lyon,Emilie and the cool kids,48.8302867,2.2452439,15.26,26.34,9,9
+Gare de Lyon,Le Gainsbar,48.8333071,2.2521772,14.47,24.84,9,10
+Gare de Lyon,Centre de Pneumologie de l'Enfant,48.8352616,2.2442898,14.99,25.46,9,11
+Gare de Lyon,Pouss'poussette - Antenne des Épinettes,48.8167246,2.2591735,14.12,25.4,9,12
+Gare de Lyon,Le Royal Malakoff,48.8197316,2.3066939,9.67,16.77,9,13
+Gare de Lyon,Crèche Les Cigognes,48.8304325,2.2783283,12.15,21.87,9,14
+Gare de Lyon,Parmacie Billancourt,48.8320073,2.2377004,15.29,25.71,9,15
+Gare de Lyon,Le 5,48.8292739,2.2468401,14.89,26.12,9,16
+Gare de Lyon,École Maternelle Anatole France (salle polyvalente),48.8202726,2.2626015,13.5,25.54,9,17
+Gare de Lyon,Pharmacie Carrefour de Weiden,48.8226989,2.2678584,13.0,24.32,9,18
+Gare de Lyon,Affichage Libre,48.8288594,2.2806247,11.86,21.13,9,19
+Gare de Lyon,Pizza Hut,48.8178334,2.3085666,9.79,17.34,9,20
+Gare de Lyon,Asia Fusion,48.8380869,2.2398177,15.14,25.93,9,21
+Gare de Lyon,La taverne de Zhao,48.8420224,2.2298546,15.89,27.6,9,22
+Gare de Lyon,Salento,48.8415325,2.2347011,15.49,26.67,9,23
+Gare de Lyon,Lycée Général et Technologique,48.8165592,2.2420089,16.31,28.3,9,24
+Gare de Lyon,Le Monde du Colis,48.8165603,2.2472548,15.54,26.95,9,25
+Gare de Lyon,Bara - Henri Farman,48.8331655,2.2678519,12.89,22.51,9,26
+Gare de Lyon,Tajmahal Express,48.8162734,2.2473883,15.56,27.0,9,27
+Gare de Lyon,Place Lafayette,48.8296785,2.2639017,13.25,23.4,9,28

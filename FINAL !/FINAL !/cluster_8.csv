@@ -1,0 +1,89 @@
+depot,destination_name,destination_lat,destination_lon,distance_km,duration_min,cluster,TARGET_ORDER
+Gare de Lyon,Calibré,48.8625629,2.340465,4.49,12.51,8,1
+Gare de Lyon,Venus Callipyge,48.8631433,2.3272725,6.41,16.97,8,2
+Gare de Lyon,Embassy of Texas,48.8668176,2.3286084,5.41,15.11,8,3
+Gare de Lyon,Parking Bastille,48.8496512,2.3682504,1.94,5.32,8,4
+Gare de Lyon,L'Embrasser,48.8514841,2.3576994,3.06,8.53,8,5
+Gare de Lyon,Makinne,48.8572892,2.3686817,2.88,7.99,8,6
+Gare de Lyon,Kibele,48.8712594,2.3520796,4.63,13.16,8,7
+Gare de Lyon,Le P’tit Bistrot,48.869253,2.3561965,4.95,13.94,8,8
+Gare de Lyon,CMG Sports Club,48.8712751,2.3477532,5.0,13.97,8,9
+Gare de Lyon,Sylvie - Allegro Musique,48.8702644,2.356512,4.81,13.46,8,10
+Gare de Lyon,Artisan de la Truffe,48.860675,2.3548105,4.69,13.09,8,11
+Gare de Lyon,Liife – Montorgueil,48.8675948,2.3472573,5.38,15.33,8,12
+Gare de Lyon,Ko’Tea,48.8676536,2.3468785,5.31,15.01,8,13
+Gare de Lyon,Bourg l'Abbé - Saint-Martin,48.8639315,2.3522584,4.55,13.03,8,14
+Gare de Lyon,Citadines,48.860658,2.3469337,4.78,12.91,8,15
+Gare de Lyon,Jefrey's,48.8660724,2.3486893,5.55,15.7,8,16
+Gare de Lyon,Bastille,48.8530436,2.3697723,1.83,5.2,8,17
+Gare de Lyon,Plural,48.8688756,2.3857746,4.42,12.61,8,18
+Gare de Lyon,Marlette,48.8574019,2.3526636,3.37,9.82,8,19
+Gare de Lyon,Parking Mazarine,48.8547313,2.3381165,4.29,11.53,8,20
+Gare de Lyon,Crédit Agricole,48.8521972,2.3768807,1.78,5.14,8,21
+Gare de Lyon,LCL,48.8519768,2.3740283,2.22,6.44,8,22
+Gare de Lyon,Little Apple,48.8621984,2.3628573,3.51,10.05,8,23
+Gare de Lyon,Motsuya,48.8706353,2.3585345,4.8,13.5,8,24
+Gare de Lyon,École Internationale des métiers de la culture et du marché de l'art,48.8664077,2.3790054,3.75,10.66,8,25
+Gare de Lyon,Galerie des Rois,48.8532766,2.3491135,3.66,9.79,8,26
+Gare de Lyon,Parc Beaubourg,48.8626579,2.3536619,4.65,13.13,8,27
+Gare de Lyon,La Table des Gourmets,48.8592384,2.3496761,3.69,10.09,8,28
+Gare de Lyon,Popolare,48.8680921,2.3433017,5.96,16.55,8,29
+Gare de Lyon,Halte-garderie,48.8594064,2.3702185,3.46,9.6,8,30
+Gare de Lyon,Pierrot,48.8641319,2.3484339,4.53,12.66,8,31
+Gare de Lyon,L'Esprit de Famille,48.848858,2.3647633,1.93,5.35,8,32
+Gare de Lyon,Nino Fresco,48.8638994,2.3457364,4.78,13.55,8,33
+Gare de Lyon,Pharmacie Labi,48.8618383,2.3830584,3.16,8.95,8,34
+Gare de Lyon,Porte Saint-Martin,48.8685995,2.3557832,4.13,11.45,8,35
+Gare de Lyon,Abri Maurice Gardette n°11-03,48.8610809,2.3790108,3.16,8.97,8,36
+Gare de Lyon,Pharmacie Dahan,48.8684612,2.372393,3.82,10.8,8,37
+Gare de Lyon,Florentina,48.8609553,2.3782967,2.87,8.15,8,38
+Gare de Lyon,Pharmacie centrale Roquette,48.8558314,2.3749424,2.31,6.69,8,39
+Gare de Lyon,Le Soleil levant,48.864844,2.3777175,3.45,9.75,8,40
+Gare de Lyon,Bastille Saint-Antoine,48.8523781,2.3724078,2.09,5.87,8,41
+Gare de Lyon,Galerie Richard,48.8604155,2.3649909,3.05,8.56,8,42
+Gare de Lyon,New Hotel Republique,48.8661043,2.3685294,3.54,9.91,8,43
+Gare de Lyon,Le Maung,48.8653811,2.3482748,4.58,12.8,8,44
+Gare de Lyon,Western Union,48.8671662,2.383904,4.06,11.41,8,45
+Gare de Lyon,Bob's Bagel Shop,48.8719672,2.3605797,4.37,12.25,8,46
+Gare de Lyon,Chez Daniel,48.8541419,2.3549031,3.09,8.91,8,47
+Gare de Lyon,Café Père et Fils,48.866823,2.3444107,4.92,13.67,8,48
+Gare de Lyon,La quéquetterie,48.8669318,2.3444702,4.93,13.7,8,49
+Gare de Lyon,Le Parvis - Beaubourg,48.8603594,2.3508027,4.95,13.34,8,50
+Gare de Lyon,Le Cœur du Liban,48.8723297,2.3631339,4.23,11.76,8,51
+Gare de Lyon,Monsieur Henri,48.8634068,2.3624053,3.58,10.07,8,52
+Gare de Lyon,Halles - Bourdonnais,48.8605777,2.3460998,3.87,10.63,8,53
+Gare de Lyon,Balagan,48.8654743,2.3297867,5.22,14.55,8,54
+Gare de Lyon,Boot Café,48.8611678,2.3653264,2.89,8.03,8,55
+Gare de Lyon,Bistrot Vivienne,48.8662803,2.3394262,5.04,14.01,8,56
+Gare de Lyon,Café Milou,48.8532868,2.3705392,1.91,5.49,8,57
+Gare de Lyon,Roomies,48.8634333,2.3485862,4.54,12.3,8,58
+Gare de Lyon,Pause Café,48.8534134,2.3767225,2.61,7.46,8,59
+Gare de Lyon,Faune au Chevreau,48.8637509,2.3277106,5.19,14.4,8,60
+Gare de Lyon,Centre culturel Pouya,48.8699163,2.3669314,3.84,10.53,8,61
+Gare de Lyon,"Vero, l'Autre Cantine",48.8585814,2.3766053,2.7,7.56,8,62
+Gare de Lyon,Claudine,48.8596188,2.3761769,2.9,8.39,8,63
+Gare de Lyon,Espace Hermès,48.8625603,2.3830701,3.27,9.4,8,64
+Gare de Lyon,Espace des fabriques,48.8670222,2.3752141,3.82,10.76,8,65
+Gare de Lyon,Le Timbaud,48.8658307,2.3705921,3.48,9.87,8,66
+Gare de Lyon,Mardin Soupe,48.8704535,2.3528693,4.6,13.25,8,67
+Gare de Lyon,Comptoir Club,48.859493,2.3683061,2.63,7.37,8,68
+Gare de Lyon,O'Sullivans Rebel Red,48.859187,2.3498444,3.7,10.13,8,69
+Gare de Lyon,Ravioli Nord-Est,48.8628462,2.3495362,4.51,12.23,8,70
+Gare de Lyon,Art Inuit Paris,48.8592237,2.3531011,5.14,13.81,8,71
+Gare de Lyon,R. Mazharian,48.8549749,2.3772105,2.15,6.28,8,72
+Gare de Lyon,Le Taïs,48.866299,2.3832322,4.06,11.41,8,73
+Gare de Lyon,Le Buisson d'Argent,48.8577438,2.3281467,5.11,13.53,8,74
+Gare de Lyon,Katsu Katsu,48.8688123,2.3355642,5.61,15.83,8,75
+Gare de Lyon,Pacifique,48.873054,2.3796868,5.1,14.46,8,76
+Gare de Lyon,Bibliothèque des Amis de l'instruction,48.8585418,2.364846,2.81,8.04,8,77
+Gare de Lyon,Kafet' Kaviari,48.8554244,2.3579962,2.87,8.15,8,78
+Gare de Lyon,260 enfants juifs de cette école,48.8578549,2.3589462,5.16,14.56,8,79
+Gare de Lyon,À la Biche au Bois,48.8480085,2.371079,1.38,4.12,8,80
+Gare de Lyon,Ernest,48.8576118,2.3586694,5.15,14.55,8,81
+Gare de Lyon,Tintin Kissing,48.8680403,2.3473736,5.36,15.13,8,82
+Gare de Lyon,La plume,48.8648155,2.3445171,4.85,13.47,8,83
+Gare de Lyon,Babel,48.8716358,2.3780921,5.31,15.07,8,84
+Gare de Lyon,Tbilissi,48.8667667,2.3513946,5.65,15.91,8,85
+Gare de Lyon,Écographie Scanner Imagerie,48.8660211,2.3462946,5.67,15.98,8,86
+Gare de Lyon,Tabac de la Bourse,48.8691212,2.3627535,3.79,10.62,8,87
+Gare de Lyon,Société Générale Bourse,48.8686697,2.3421738,5.86,16.44,8,88

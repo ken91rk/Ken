@@ -1,0 +1,62 @@
+depot,destination_name,destination_lat,destination_lon,distance_km,duration_min,cluster,TARGET_ORDER
+Gare de Lyon,Les Enfants du Paradis,48.8741152,2.3446134,5.58,15.57,4,1
+Gare de Lyon,Masséna,48.8719098,2.3260854,6.3,17.64,4,2
+Gare de Lyon,Montmartre Recording,48.8872463,2.3338457,7.15,19.93,4,3
+Gare de Lyon,Le Cercle,48.884124,2.3472403,5.95,16.76,4,4
+Gare de Lyon,Chapelle Notre-Dame des Malades,48.8822635,2.3613237,6.76,18.89,4,5
+Gare de Lyon,Pharmacie Mathieu,48.8895292,2.3399573,6.94,19.52,4,6
+Gare de Lyon,Guichet Transilien,48.8798604,2.3580575,5.34,14.89,4,7
+Gare de Lyon,Valerio,48.8765317,2.3370161,5.97,16.73,4,8
+Gare de Lyon,La Mascotte Montmartre,48.8857113,2.3355174,7.03,19.68,4,9
+Gare de Lyon,Alley Gallery,48.8855327,2.3387362,6.63,18.56,4,10
+Gare de Lyon,Club Montmartre - Cercle de Jeux,48.8831871,2.3278138,7.12,19.73,4,11
+Gare de Lyon,Théophile Alexandre Steinlen,48.8896381,2.3368213,7.17,20.14,4,12
+Gare de Lyon,Café Du Théatre,48.8784708,2.3315444,7.08,19.6,4,13
+Gare de Lyon,Shakespeare Brunch,48.8814897,2.3366731,6.41,17.77,4,14
+Gare de Lyon,À la mémoire des élèves de cette école,48.8835444,2.3408704,6.38,17.88,4,15
+Gare de Lyon,Bataille de Paris,48.8860562,2.3658936,6.23,17.31,4,16
+Gare de Lyon,Traiteur Paris Gourmand,48.8743346,2.3323904,6.4,18.1,4,17
+Gare de Lyon,Casablanca,48.8723637,2.3275412,6.39,17.86,4,18
+Gare de Lyon,Le Royal Est,48.8755247,2.3590436,4.63,12.96,4,19
+Gare de Lyon,Photomaton,48.8799402,2.3564547,5.18,14.78,4,20
+Gare de Lyon,Madame Arthur,48.8825911,2.3395439,6.29,17.47,4,21
+Gare de Lyon,Carni,48.8814607,2.34641,5.82,16.25,4,22
+Gare de Lyon,Sushi Rome,48.8844479,2.3233681,8.17,22.65,4,23
+Gare de Lyon,La Passerelle,48.8862329,2.3451599,6.45,18.13,4,24
+Gare de Lyon,Alfred Adam,48.8872853,2.3364856,7.37,20.49,4,25
+Gare de Lyon,Salento Montmartre,48.8802811,2.3433711,5.82,16.21,4,26
+Gare de Lyon,Teillebon,48.8800576,2.3317323,6.93,19.27,4,27
+Gare de Lyon,Ricky la Bagarre,48.8903618,2.3454999,6.88,19.46,4,28
+Gare de Lyon,Hommage à F. Liszt,48.8778917,2.3511,5.77,16.22,4,29
+Gare de Lyon,La Goutte Rouge,48.8855875,2.3531342,6.19,17.24,4,30
+Gare de Lyon,NEMESIS Artisan Kebabier,48.8896729,2.3425736,6.75,18.95,4,31
+Gare de Lyon,El Tequila Mexicana,48.8886685,2.3319948,7.83,21.8,4,32
+Gare de Lyon,Monlam Cafe,48.8864125,2.3455777,6.43,18.06,4,33
+Gare de Lyon,Bien Bien,48.8726231,2.3440148,5.21,14.54,4,34
+Gare de Lyon,L'atelier des chefs,48.8768305,2.3374663,5.92,16.54,4,35
+Gare de Lyon,KeepCool,48.8761189,2.3380306,6.09,17.13,4,36
+Gare de Lyon,Joli Marché,48.8910588,2.3475069,6.65,18.72,4,37
+Gare de Lyon,Exe Panorama,48.8761971,2.3499922,5.22,14.69,4,38
+Gare de Lyon,Mosugo,48.8731251,2.3303363,6.06,16.83,4,39
+Gare de Lyon,Loco,48.8737307,2.3424946,5.38,14.96,4,40
+Gare de Lyon,Ici a vécu le commandant Henry Lachouque,48.8880828,2.3394245,7.76,21.5,4,41
+Gare de Lyon,Hôtel Dalila,48.8965796,2.3436026,7.46,21.12,4,42
+Gare de Lyon,La Villa des livres,48.8876257,2.3271295,7.69,21.4,4,43
+Gare de Lyon,Radio Nova,48.9002966,2.3373078,8.29,22.73,4,44
+Gare de Lyon,Jah Jah by Le Tricycle,48.8731478,2.3531601,5.33,15.12,4,45
+Gare de Lyon,Asian Exchange,48.8834227,2.3611408,6.48,17.9,4,46
+Gare de Lyon,Ladess,48.8854969,2.3263144,7.42,20.61,4,47
+Gare de Lyon,Comité départemental du tourisme de Mayotte,48.8809204,2.3250509,7.57,21.14,4,48
+Gare de Lyon,Le Carolus,48.8843844,2.3286648,7.11,19.67,4,49
+Gare de Lyon,Seng Ly Plats à Emporter,48.8881434,2.3468378,6.51,18.43,4,50
+Gare de Lyon,Multi-accueil André Rousseau,48.8780528,2.339397,5.94,16.76,4,51
+Gare de Lyon,Novettino,48.8722926,2.3275063,6.4,17.88,4,52
+Gare de Lyon,Enterprise,48.8806866,2.3538242,6.44,18.37,4,53
+Gare de Lyon,Les 3 Frères,48.8875899,2.3535772,6.43,18.11,4,54
+Gare de Lyon,Le Panama,48.8876553,2.3535885,6.44,18.15,4,55
+Gare de Lyon,Dépanneur Pigalle,48.8823348,2.3334289,6.56,18.15,4,56
+Gare de Lyon,Haussmann Galeries Lafayette,48.873392,2.3305247,6.06,16.81,4,57
+Gare de Lyon,Berry,48.8732236,2.3431529,5.31,14.8,4,58
+Gare de Lyon,Leibniz - Jean Dollfus,48.8963283,2.3333904,8.01,22.29,4,59
+Gare de Lyon,La maison du kebab & chicken,48.880498,2.3530372,5.28,14.81,4,60
+Gare de Lyon,Pharmacie Rodier,48.8779431,2.3424201,6.06,16.89,4,61

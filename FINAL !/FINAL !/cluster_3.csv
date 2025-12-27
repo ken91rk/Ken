@@ -1,0 +1,32 @@
+depot,destination_name,destination_lat,destination_lon,distance_km,duration_min,cluster,TARGET_ORDER
+Gare de Lyon,Maison de la Radio,48.8512657,2.2781107,9.89,23.54,3,1
+Gare de Lyon,LCL,48.8516612,2.2678982,14.88,26.17,3,2
+Gare de Lyon,Collège privé MCCAXES,48.8437557,2.2589364,14.22,24.17,3,3
+Gare de Lyon,Pharmacie Rive Gauche,48.846049,2.278046,13.51,24.41,3,4
+Gare de Lyon,Le Terminus Balard,48.8370093,2.278353,12.37,21.37,3,5
+Gare de Lyon,SG,48.8544065,2.2654081,11.17,27.11,3,6
+Gare de Lyon,Bistro Saint-Dominique,48.8582703,2.3023952,7.55,20.06,3,7
+Gare de Lyon,Centre médico-psychologique,48.8381006,2.2938445,8.24,24.05,3,8
+Gare de Lyon,Taki,48.8509615,2.2916907,7.98,21.68,3,9
+Gare de Lyon,Senso,48.8342769,2.2955846,11.71,20.93,3,10
+Gare de Lyon,Camille,48.8564012,2.2779632,10.11,25.28,3,11
+Gare de Lyon,ÉCOLE MAIGRET,48.8470998,2.2839749,8.6,23.64,3,12
+Gare de Lyon,CDI,48.8463242,2.267205,14.57,26.02,3,13
+Gare de Lyon,Sirène d'Or,48.8388101,2.3003085,7.45,20.42,3,14
+Gare de Lyon,Ristorantino Shardana,48.8456494,2.2963586,7.76,21.36,3,15
+Gare de Lyon,Café Maraîcher,48.8368705,2.2981191,7.54,20.77,3,16
+Gare de Lyon,Place de Fontenoy - Saxe,48.8502941,2.3069781,6.93,18.89,3,17
+Gare de Lyon,Crédit Agricole,48.8427291,2.3035007,7.04,19.13,3,18
+Gare de Lyon,Le Polo,48.8510948,2.2675935,14.81,25.98,3,19
+Gare de Lyon,Banque Populaire,48.8390983,2.2821736,12.87,23.91,3,20
+Gare de Lyon,Le Relais de la Place,48.8366118,2.3066363,6.86,18.84,3,21
+Gare de Lyon,Bank of America,48.864261,2.287742,9.1,22.42,3,22
+Gare de Lyon,Café de Mars,48.8573875,2.3020651,7.28,19.56,3,23
+Gare de Lyon,Suffren - Pérignon,48.8471756,2.3070521,6.78,18.45,3,24
+Gare de Lyon,Centre médical de l'institut Pasteur,48.8419867,2.3096451,6.86,18.83,3,25
+Gare de Lyon,Hôtel de la Paix,48.838719,2.288741,12.19,22.02,3,26
+Gare de Lyon,Pharmarket Beaugrenelle,48.8464239,2.2857557,8.37,22.79,3,27
+Gare de Lyon,Pharmacie du Square Violet,48.8447636,2.2899499,8.09,22.05,3,28
+Gare de Lyon,Le Rocher,48.8473462,2.2986522,7.41,20.18,3,29
+Gare de Lyon,Café Beaugrenelle,48.8464151,2.2854902,8.74,23.77,3,30
+Gare de Lyon,Lutetia,48.8470991,2.2854664,8.42,22.95,3,31
