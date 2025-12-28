@@ -1,7 +1,7 @@
 ## Présentation
 Bienvenue sur le projet fantastique et ambitieux de Mohamed et Ken !
 Ce projet a pour objectif d’aider les **livreurs** à organiser leur tournée.  
-Un livreur doit livrer de nombreux colis chaque jour à des adresses différentes. L’enjeu est donc de trouver **le meilleur ordre de livraison** afin de réduire le temps de trajet.
+Un livreur doit livrer de nombreux colis chaque jour à des adresses différentes. L’enjeu est donc de trouver le meilleur ordre de livraison afin de réduire le temps de trajet.
 
 Ce problème est connu sous le nom de **problème du voyageur de commerce**. Le problème du voyageur de commerce consiste à trouver le meilleur ordre pour visiter plusieurs adresses, afin de parcourir la distance la plus courte possible. Quand le nombre d’adresses augmente, le problème devient plus complexe et nécessite une solution informatique.
 Dans ce projet, ce problème est appliqué au cas des **livreurs**, afin d’optimiser leurs tournées de livraison.
