@@ -37,3 +37,8 @@ Notre objectif est de proposer une solution simple afin de déterminer l’itin�
 - `utils.py`  
   Fonctions utiles pour le fonctionnement du projet.
 
+---
+
+## Lancer le projet
+Pour lancer le projet, il suffit d’exécuter le fichier `main.py`.
+
