@@ -3,10 +3,10 @@ Bienvenue sur le projet fantastique et ambitieux de Mohamed et Ken !
 Ce projet a pour objectif d’aider les **livreurs** à organiser leur tournée.  
 Un livreur doit livrer de nombreux colis chaque jour à des adresses différentes. L’enjeu est donc de trouver le meilleur ordre de livraison afin de réduire le temps de trajet.
 
-Ce problème est connu sous le nom de **problème du voyageur de commerce**. Le problème du voyageur de commerce consiste à trouver le meilleur ordre pour visiter plusieurs adresses, afin de parcourir la distance la plus courte possible. Quand le nombre d’adresses augmente, le problème devient plus complexe et nécessite une solution informatique.
+Ce problème est connu sous le nom de **problème du voyageur de commerce**. Le problème du voyageur de commerce consiste à trouver le meilleur ordre pour visiter plusieurs lieux afin de parcourir la distance la plus courte possible. Quand le nombre de lieux augmente, le problème devient plus complexe et nécessite une solution informatique.
 Dans ce projet, ce problème est appliqué au cas des **livreurs**, afin d’optimiser leurs tournées de livraison.
 
-Notre objectif est de proposer une solution simple afin de déterminer l’itinéraire le plus court possible à partir d’une liste d’adresses.
+Notre objectif est de proposer une solution simple afin de déterminer l’itinéraire le plus court possible à partir d’une liste de points que le livreur doit visiter.
 
 ## Principe du projet
 1. Génération et préparation de notre propre dataset : les données sont extraites, organisées et transformées à partir de différentes adresses afin de créer un jeu de données exploitable pour le machine learning.
@@ -14,7 +14,6 @@ Notre objectif est de proposer une solution simple afin de déterminer l’itin�
 3. Il teste les performances du modèle
 4. Il affiche les résultats
 
-Tout le processus est **automatique** et se lance avec un seul fichier.
 
 ---
 
