@@ -1,9 +1,0 @@
-pandas
-numpy
-requests
-tqdm
-scikit-learn
-xgboost
-ortools
-matplotlib
-seaborn
