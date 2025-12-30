@@ -40,5 +40,5 @@ Notre objectif est de proposer une solution simple afin de déterminer l’itin�
 ---
 
 ## Lancer le projet
-Pour lancer le projet, il suffit d’exécuter le fichier `main.py`.
+Pour lancer le projet, il suffit d’aller dans Projet/Projet puis d'exécuter le fichier `main.py`.
 
